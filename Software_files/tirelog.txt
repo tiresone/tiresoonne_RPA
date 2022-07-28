@@ -1,0 +1,34 @@
+杩欐槸鏃ュ織今天是周 7 
+开始执行 left 1 
+开始找图 2.png 
+..\Source\sample\2.png 图片有效 
+找到图片 2.png 并完成移动 
+完成 left 
+开始执行 left 2 
+开始找图 3.png 
+..\Source\sample\3.png 图片有效 
+..\Source\sample\3.png 图片有效 
+..\Source\sample\3.png 图片有效 
+..\Source\sample\3.png 图片有效 
+..\Source\sample\3.png 图片有效 
+没找到，查看超时行为 
+中途退出 
+已退出 
+完全执行一次表 
+今天是周 7 
+开始执行 left 1 
+开始找图 2.png 
+..\Source\sample\2.png 图片有效 
+找到图片 2.png 并完成移动 
+完成 left 
+开始执行 left 2 
+开始找图 3.png 
+..\Source\sample\3.png 图片有效 
+..\Source\sample\3.png 图片有效 
+..\Source\sample\3.png 图片有效 
+..\Source\sample\3.png 图片有效 
+..\Source\sample\3.png 图片有效 
+没找到，查看超时行为 
+中途退出 
+已退出 
+完全执行一次表 
